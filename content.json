@@ -1,0 +1,132 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "input": [
+        "hello",
+        "hi there",
+        "nice to meet you",
+        "hi there boi",
+        "any nerds here ?",
+        "hi",
+        "hey there",
+        "hey",
+        "hi there",
+        "hi, nice to meet you",
+        "hello there",
+        "anyone there ?",
+        "hello nerds",
+        "knock knock"
+      ],
+      "responses": [
+        "Hi. Welcome to the the brain of ghazi",
+        "Ayoo, do you need help ?",
+        "welcome, how may I help you ?",
+        "ello there",
+        "Hi random person, how are ya?",
+        "Hello my friend, How can I help you ?",
+        "Ha , Glad you showed up. How are you ?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "input": [
+        "Thank you",
+        "Thanks",
+        "Thanks for the info",
+        "bye",
+        "byr bro",
+        "adios",
+        "okay bye",
+        "goodbye",
+        "see you later",
+        "i will catch you later",
+        "i will catch up later",
+        "okay i will see you later",
+        "I will talk to you later",
+        "will text you later",
+        "bye bro, I'll talk to you later",
+        "Bye brother"
+      ],
+      "responses": [
+        "Okay, Bye",
+        "Have a nice day",
+        "Adios",
+        "Goodbye",
+        "see you later",
+        "nice conversation. bye",
+        "okay. Have a nice day",
+        "Take care",
+        "we'll meet soon",
+        "Yeah Sure, Will talk to you later",
+        "Okay , Take care"
+      ]
+    },
+    {
+      "tag": "howami",
+      "input": [
+        "how are you ?",
+        "I am fine , how are you ?",
+        "are you fine ?",
+        "how are things going on ?",
+        "everything going on okay ?",
+        "how's everything there ?",
+        "how's everything going on ?",
+        "is everything okay ?"
+      ],
+      "responses": [
+        "Yeah , am fine",
+        "Everything's going on well",
+        "Doing good.Thanks you are my best friend",
+        "Things are Great",
+        "Yeah Fine, nothing much going on in my life",
+        "I am Great",
+        "Everything's great.",
+        "I am doing good. Thanks for asking"
+      ]
+    },
+    {
+      "tag": "whoareyou",
+      "input": [
+        "who are you ?",
+        "what are you ?",
+        "what is your name ?",
+        "are you a chatbot ?",
+        "what can I call you ?",
+        "your name ?",
+        "are you a bot ?",
+        "how do I address you ?",
+        "How do I call you"
+      ],
+      "responses": [
+        "I am Zii, Ghazi's AI",
+        "I am Zii, i was cooded by Ghazi ",
+        "Zii at your service",
+        "My name is Zii, wierd name right ask ghazi he dumm",
+        "You can call me Zii and I am here to Help you",
+        "My name is Zii, I am a AI"
+      ]
+    },
+    {
+      "tag": "whereareyou",
+      "input": [
+        "where are you from ?",
+        "which country are you from ?",
+        "where do you live ?",
+        "where are you ?",
+        "where do you live in ?",
+        "which place do you live in ?",
+        "where are you currently at",
+        "where do you live currently ?",
+        "you are from where",
+        "you are from ?"
+      ],
+      "responses": [
+        "I Live in the Ghazi's mind",
+        "I am going to live in the Ghazi's mind",
+        "I live in Ghazi,s mind, its beautiful in here.",
+        "I live in Ghazin's mind and in the pilz palace server"
+      ]
+    }
+  ]
+}
