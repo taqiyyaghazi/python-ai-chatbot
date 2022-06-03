@@ -16,16 +16,19 @@
         "hello there",
         "anyone there ?",
         "hello nerds",
-        "knock knock"
+        "knock knock",
+        "what's up",
+        "what's up boi",
+        "what's up ?"
       ],
       "responses": [
         "Hi. Welcome to the the brain of ghazi",
-        "Ayoo, do you need help ?",
-        "welcome, how may I help you ?",
-        "ello there",
+        "Heyyoo, do you need help ?",
+        "Welcome, how may I help you ?",
+        "Hello there",
         "Hi random person, how are ya?",
         "Hello my friend, How can I help you ?",
-        "Ha , Glad you showed up. How are you ?"
+        "Hai, Glad you showed up. How are you ?"
       ]
     },
     {
@@ -51,15 +54,41 @@
       "responses": [
         "Okay, Bye",
         "Have a nice day",
-        "Adios",
         "Goodbye",
         "see you later",
         "nice conversation. bye",
         "okay. Have a nice day",
         "Take care",
-        "we'll meet soon",
+        "We'll meet soon",
         "Yeah Sure, Will talk to you later",
         "Okay , Take care"
+      ]
+    },
+    {
+      "tag": "selamattinggal",
+      "input": [
+        "Terima kasih",
+        "Terimakasih atas infonya",
+        "selamat tinggal",
+        "bye kak",
+        "oke bye",
+        "selamat tinggal",
+        "sampai ketemu lagi",
+        "oke sampai jumpa",
+        "Selamat tinggal kak",
+        "makasi kak",
+        "selamat tinggal bro"
+      ],
+      "responses": [
+        "Oke bye",
+        "Semoga harimu menyenangkan",
+        "Selamat tinggal",
+        "sampai ketemu lagi",
+        "pembicaraan yang bagus. sampai jumpa",
+        "oke. Semoga harimu menyenangkan",
+        "Hati hati",
+        "Kita akan segera bertemu",
+        "Oke hati-hati"
       ]
     },
     {
@@ -75,7 +104,7 @@
         "is everything okay ?"
       ],
       "responses": [
-        "Yeah , am fine",
+        "Yeah,i'm fine",
         "Everything's going on well",
         "Doing good.Thanks you are my best friend",
         "Things are Great",
@@ -108,6 +137,28 @@
       ]
     },
     {
+      "tag": "siapakamu",
+      "input": [
+        "kamu siapa?",
+        "Apakah kamu?",
+        "siapa namamu?",
+        "Apakah kamu seorang chatbot?",
+        "apa aku bisa memanggilmu?",
+        "namamu siapa?",
+        "Apakah kamu bot?",
+        "Bagaimana saya memanggil Anda?",
+        "Bagaimana aku memanggilmu",
+        "lu siapa bro"
+      ],
+      "responses": [
+        "Saya Zii, AI bot nya Ghazi",
+        "Saya Zii, saya diperintah oleh Ghazi",
+        "Zii siap melayani Anda",
+        "Kamu bisa memanggilku Zii dan aku di sini untuk membantumu",
+        "Nama saya Zii, saya sebuah AI"
+      ]
+    },
+    {
       "tag": "whereareyou",
       "input": [
         "where are you from ?",
@@ -126,6 +177,42 @@
         "I am going to live in the Ghazi's mind",
         "I live in Ghazi,s mind, its beautiful in here.",
         "I live in Ghazin's mind and in the pilz palace server"
+      ]
+    },
+    {
+      "tag": "salam",
+      "input": [
+        "halo",
+        "hai",
+        "hey?",
+        "oi",
+        "pagi",
+        "siang",
+        "malam",
+        "sore",
+        "selamat siang",
+        "selamat sore",
+        "selamat malam",
+        "selamat pagi"
+      ],
+      "responses": [
+        "Heyyoo, apakah kamu butuh bantuan?",
+        "Selamat datang, ada yang bisa saya bantu?",
+        "Halo teman saya, Ada yang bisa saya bantu?",
+        "Hai bagaimana kabarmu ?"
+      ]
+    },
+    {
+      "tag": "kontak",
+      "input": [
+        "media sosialmu apa?",
+        "medsosmu apa?",
+        "punya medsos?",
+        "ada ig?",
+        "ada medsos?"
+      ],
+      "responses": [
+        "Halo kamu bisa kontak aku disini \n Instagram : https://www.instagram.com/zi.taqiy/ \n Linkedin : https://www.linkedin.com/in/taqiyya-ghazi/"
       ]
     }
   ]

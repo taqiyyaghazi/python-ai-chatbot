@@ -6,6 +6,7 @@ import random
 from tensorflow.keras.models import load_model
 import json
 import string
+import database
 
 def predict_msg(msg):
 
@@ -35,7 +36,8 @@ def predict_msg(msg):
     #getting output from model
     predict = model.predict(prediction_input)
     output = predict.argmax()
-    classes = ['goodbye', 'greeting', 'howami', 'whereareyou', 'whoareyou']
+    classes = ['goodbye', 'greeting', 'howami', 'kontak', 'salam',
+        'selamattinggal', 'siapakamu', 'whereareyou', 'whoareyou']
     response_tag = classes[output]
 
     if predict[0][output] > 0.6:
@@ -48,6 +50,7 @@ def predict_msg(msg):
         }
         
     else:
+        database.handling_msg_missed(msg)
         return {
             'status': 'success',
             'data': {
