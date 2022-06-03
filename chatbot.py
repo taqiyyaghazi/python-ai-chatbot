@@ -54,7 +54,7 @@ def predict_msg(msg):
         return {
             'status': 'success',
             'data': {
-                'response': "Hi, I don't understand",
+                'response': "Hi, I haven't learned what you're asking. I'll ask Ghazi first, okay?",
                 'probability': str(predict[0][output])
             }
         }
