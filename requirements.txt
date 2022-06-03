@@ -1,4 +1,4 @@
 Flask==2.1.2
 Flask-Cors==3.0.10
-tensorflow-cpu==2.5.0
+tensorflow-cpu
 gunicorn
