@@ -10,7 +10,7 @@ import database
 
 def predict_msg(msg):
 
-    with open('content.json') as content:
+    with open('../data/content.json') as content:
         data1 = json.load(content)
 
     responses={}
@@ -19,7 +19,7 @@ def predict_msg(msg):
 
     model = load_model('model.h5')
 
-    with open('tokenizer.json') as f:
+    with open('../data/tokenizer.json') as f:
         token = json.load(f)
         tokenizer = tokenizer_from_json(token)
 
