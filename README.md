@@ -29,7 +29,7 @@ Body Request
 Clone the project
 
 ```bash
-  git clone https://github.com/taqiyyaghazi/python-ai-chatbot
+  git clone https://github.com/taqiyyaghazi/python-ai-chatbot.git
 ```
 
 Go to the project directory
